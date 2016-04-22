@@ -1,5 +1,5 @@
 # Hangman
-Hangman game written in Python 
+Hangman game written in Python 2.7
 
 1. The computer comes up with a secret word from the list of word initially given to it
 2. The computer asks user to guess a letter
