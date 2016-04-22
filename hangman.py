@@ -134,7 +134,7 @@ while True:
 			displayHangmanBoard (HANGMANPICS, rightguess, wrongguess, secretword)
 			print 'You have run out of guesses.'
 			gameIsDone = True
-
+	#offers the player whether she wants to play again
 	if gameIsDone:
 		if playAgain():
 			wrongguess = ''
